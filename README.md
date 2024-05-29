@@ -10,7 +10,7 @@
   
 - 🌱 I’m currently learning **React, Machine Learning**
   
-- 👨‍💻 My Portfolio [https://main--karthikjportfolio.netlify.app/](https://main--karthikjportfolio.netlify.app/)
+- 👨‍💻 My Portfolio [Link](https://portfolio-eight-psi-90.vercel.app/)
 
 - 💬 Ask me about **MERN**
 
