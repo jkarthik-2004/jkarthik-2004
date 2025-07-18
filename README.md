@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [E-Commerce](https://github.com/jkarthik-2004/E-Commerce)
+- 🔭 I’m currently working on Java, Spring MVC
   
 - 🌱 I’m currently learning **React, Machine Learning**
   
-- 👨‍💻 My Portfolio [Link](https://portfolio-eight-psi-90.vercel.app/)
+- 👨‍💻 My Portfolio [Link](https://jkarthik.netlify.app/)
 
 - 💬 Ask me about **MERN**
 
